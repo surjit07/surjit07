@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am a results-driven Full Stack Developer with over 7 years of experience in crafting high-quality, secure web applications. My expertise spans across .NET, Java, AngularJS, and Angular. Certified Associate Java 8 Developer, I am dedicated to delivering innovative, user-centric solutions in Agile environments. I bring a strong familiarity with cloud platforms such as AWS, Azure, and Google Cloud Platform.
+I am a results-driven Full Stack Developer with over 7 years of experience in crafting high-quality, secure web applications. My expertise spans across .NET, Java, AngularJS, and Angular. Certified Associate Java 8 Developer, I am dedicated to delivering innovative, user-centric solutions in <span style="background-color: #3498db; padding: 2px 5px; border-radius: 3px; color: #fff;">Agile</span> environments. I bring a strong familiarity with cloud platforms such as AWS, Azure, and Google Cloud Platform.
 
 ## 💼 Experience
 
