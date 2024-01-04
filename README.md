@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Surjit Singh
 
 ## 🚀 About Me
 
@@ -9,26 +9,26 @@ I am a results-driven Full Stack Developer with over 7 years of experience in cr
 ### Lead Software Developer | Ultimate Krons Group | Toronto
 #### November 2021 – Present
 
-- Spearheaded collaboration with cross-functional teams, translating project requirements into technical solutions.
-- Developed and supported RESTful and JSON APIs using C# and .NET.
-- Designed UI components with Angular V9.0, HTML, Bootstrap, JavaScript, and TypeScript, adhering to best practices.
-- Enforced version control, code review, automatic builds, and continuous integration using Bitbucket.
+- 🚀 Spearheaded collaboration with cross-functional teams, translating project requirements into technical solutions.
+- 🛠 Developed and supported RESTful and JSON APIs using C# and .NET.
+- 🎨 Designed UI components with Angular V9.0, HTML, Bootstrap, JavaScript, and TypeScript, adhering to best practices.
+- 🔧 Enforced version control, code review, automatic builds, and continuous integration using Bitbucket.
 
 ### Full Stack Developer | Deloitte | Toronto
 #### January 2021 – November 2021
 
-- Developed function apps on Microsoft Azure and deployed Build and Release Pipelines using ADO CI/CD tools.
-- Designed RESTful API specs with Swagger 3.0 using C# and NodeJS.
-- Implemented microservices for monolithic applications, ensuring performance optimization.
-- Utilized Azure Key Vault to secure primary keys and secret values.
+- 🚀 Developed function apps on Microsoft Azure and deployed Build and Release Pipelines using ADO CI/CD tools.
+- 🎨 Designed RESTful API specs with Swagger 3.0 using C# and NodeJS.
+- 🔧 Implemented microservices for monolithic applications, ensuring performance optimization.
+- 🔒 Utilized Azure Key Vault to secure primary keys and secret values.
 
 ### Software Developer | Softron Tax Inc. | Mississauga
 #### February 2018 - January 2021
 
-- Provided development and production support for RESTful and JSON APIs using C#, .NET, and NodeJS.
-- Developed user-intuitive front-end applications with React, Angular, HTML, JavaScript, and CSS.
-- Integrated 3rd party programs using REST API for increased functionality.
-- Utilized cloud technologies such as Microsoft Azure and AWS for performance and high availability.
+- 🛠 Provided development and production support for RESTful and JSON APIs using C#, .NET, and NodeJS.
+- 🎨 Developed user-intuitive front-end applications with React, Angular, HTML, JavaScript, and CSS.
+- 🚀 Integrated 3rd party programs using REST API for increased functionality.
+- ☁ Utilized cloud technologies such as Microsoft Azure and AWS for performance and high availability.
 
 ... (Continue with your other experiences)
 
@@ -48,9 +48,4 @@ I am a results-driven Full Stack Developer with over 7 years of experience in cr
 
 ## 📫 Let's Connect!
 
-Feel free to reach out to me via [LinkedIn](your-linkedin-profile) or [Email](mailto:your.email@example.com). I'm open to exciting opportunities and collaborations!
-
-<!---
-surjit07/surjit07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to reach out to me via [LinkedIn](www.linkedin.com/in/ss-surjit-singh) or [Email](mailto:lubana.surjitsingh68@gmail.com). I'm open to exciting opportunities and collaborations!
