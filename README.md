@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Surjit Singh</h1>
-<h3 align="center">Results-driven Full Stack Developer with over 7 years of experience in .NET, Java, AngularJS, and Angular. Certified Associate Java 8 Developer, dedicated to delivering high-quality, secure web applications. Proven track record in Agile environments, ensuring innovative, user-centric solutions. Strong familiarity with cloud platforms such as AWS, Azure, and Google Cloud Platform.</h3>
+Results-driven Full Stack Developer with over 7 years of experience in .NET, Java, AngularJS, and Angular. Certified Associate Java 8 Developer, dedicated to delivering high-quality, secure web applications. Proven track record in Agile environments, ensuring innovative, user-centric solutions. Strong familiarity with cloud platforms such as AWS, Azure, and Google Cloud Platform.
 
 - 🚀 **Lead Software Developer** at **Ultimate Krons Group | Toronto** (Nov 2021 – Present)
   - Spearheaded collaboration with cross-functional teams, translating project requirements into technical solutions.
